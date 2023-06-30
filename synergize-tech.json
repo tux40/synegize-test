@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "synergize-tech",
+  "private_key_id": "eb4b425e470dde4060857d56e63350a0ed585c1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKvRaOYY/pTGv9\n057a9xn+Oc+xWwb5Iktk78aKOfyI/BUcM8c6HxwS/GZiE4Pv5yZ1GMPJHigt3Fwx\nx9AvWDe2cGhsoasCxD6SuO4Ehxf3yD32B1A9cfYUQUIu3xTrwIU9aq8favh9OpPZ\nD1CIHeX6A5jazszEYhazefdupDxVog14QQBJqVlxpBeLfMfg63f9y+bs2UjyfrMU\nDH0CgpPhBSaWbmSXK0RD2Y/kMzoWsEDtjnTnl6hXAPg3kioFSPb3Rj+4MANLEt+0\nBxU0J7EsAaZauC7rEzgLCWfQBcA4UnRfpZu+vWNPlBs1qlJFyk8lMr4JC/4+p181\n4cquMX31AgMBAAECggEAUikE/hh9mL82uHvNUdF4ADXvfGF2VvpV8YbWP+g19lGq\nQG6fW2eGGg+dcjuUaWGUjTnHBjcpc0RtPGNMdBNdKJsvRm7R/eIHtbAqDT2uMeU9\nbvoRw4Tug9DagGI5eTzhAj280I+qOh3GEt4I9dCgBYz1oh7SjvdtWbig1H7MUKsO\nAbt7vNW9LQ3P4tifkQNUnsI8pByt8aIZsceiiE7TIlOMeZbM7PPaED4rA4GOfx6i\nSxSgrbPjpXr98+Ut6m/bAig8nRtMv/9eJROknopqSLXKBTURuQ8PCCUUvP9mawJJ\nmB5i6fVJSJctDlWvSQ7YEWOh2J3Y70OFaAawghgd9QKBgQDkbc7SXWG+Ll9V87mc\noUk2PHMvpe0L9t2xBZ9iipFFCFZhuIzb2GfX15lVrH+oTBTYg2f5lDbWNuhspuC1\ndjyMOFFbE2rsjFMPK+m1TZMSELbrrpjov0Z5cweN1zo/0DsmOuIRw4R73x0lMERm\nj6pqQLdNvw73rizVYOlBZUIVEwKBgQDjNXqjSInxAMAii1oomfOTBSXnxF7G5L7n\noKonPZq8kwtpGlfgNgmYPY7IOKP7vGNuQjKhDJqS5nB6ElhRASf9WBZ1QzwI0trc\nKV3BgKr+wJu3zMwXRsp1jsgdjyasDqxzuMny1IUlQ7dmjO71/S5ymgPJ2ffEYesV\n6LXeTV9p1wKBgGiNCdim/RG6z8/bWd0ixQuZ526rly+esiFP3X+QxKTACCl5+p61\nEfJsr7XS2isBh5kBrBlDiUXKo973Emp7z4KuVC5HWO0j3PBYvQNKmkHufIqqwznk\nMjFsQMze8b47ZJc+5DIVNxIrMH/Q872ti+ZN8JgZFpSul76iOKDB49kZAoGALmBf\nHO8UgOXXUfXBvGHYLt0xJIKXmd9c/Ch2MrZHXFBjVtuyrig5gyKlf0bYaezFGt9W\nODs7Xdq9gJ03+6jRwct2Ig9MNLzdQW0MHxAlVwR3hGfADMw9TQuM20O58Aq6tpA0\nYGVym+2bhMoliH5aObgoJ85e3W3jL0Clxq9iV1cCgYEA1FZnaQhAQ2yv3wOsW0Qo\ncBuZiPxllBJlrAyLoAFXOmJ49my0krEoGVKCJhXzyES2DTjkEjYiCRvJY5DVGrup\nZKQzc0JdWsWWngbc4B+2eWUeFNobfWwCs/1wh0FPTjjkqOiI49uSryJgOg7JjdRo\n5NCWz6kk7sDjXUQ0qHSPU3s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "synergize@synergize-tech.iam.gserviceaccount.com",
+  "client_id": "100435698696510138189",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/synergize%40synergize-tech.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
